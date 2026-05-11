@@ -80,4 +80,4 @@ Key Insights:
 - Peak orders were observed during lunch and evening hours.
 -  Classic category contributed the highest overall sales volume.
 
-
+https://github.com/mehravinay1919-da/Pizza-Sales-Dashboard/blob/main/Pizzahome_Sales_Analysis.png
